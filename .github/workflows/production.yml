@@ -13,7 +13,7 @@ jobs:
 
     steps:
     - uses: actions/checkout@v1
-    - uses: amondnet/now-deployment@v1
+    - uses: amondnet/now-deployment@v2.0.3
       with:
         github-token: 99a21b62bb5526121d35044a9ae1922caa82a637
         zeit-token: 0Y0N0MBMK7eLAZBf5B9rwyGi
