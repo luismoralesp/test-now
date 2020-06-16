@@ -15,6 +15,6 @@ jobs:
     - uses: actions/checkout@v1
     - uses: amondnet/now-deployment@v2.0.3
       with:
-        github-token: 99a21b62bb5526121d35044a9ae1922caa82a637
+        github-token: e5549130900384e19d784a275c1ba135088c98a5
         zeit-token: 0Y0N0MBMK7eLAZBf5B9rwyGi
         now-args: '-A now.production.json --prod'
