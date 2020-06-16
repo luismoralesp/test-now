@@ -16,5 +16,5 @@ jobs:
     - uses: amondnet/now-deployment@v2.0.3
       with:
         github-token: e5549130900384e19d784a275c1ba135088c98a5
-        zeit-token: 0Y0N0MBMK7eLAZBf5B9rwyGi
+        zeit-token: z15wK1OmJQMqsAlDKiF5uC0r
         now-args: '-A now.production.json --prod'
